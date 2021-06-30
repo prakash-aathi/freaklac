@@ -1,0 +1,25 @@
+[11/Jun/2021:08:28:58] (I): WordPress Instance Info:
+[11/Jun/2021:08:28:58] (I): Home URL : https://freaklac.ezyro.com
+[11/Jun/2021:08:28:58] (I): Site URL : https://freaklac.ezyro.com
+[11/Jun/2021:08:28:58] (I): WordPress Version : 5.7.2
+[11/Jun/2021:08:28:58] (I): Onboarding Version : 1.1.13
+[11/Jun/2021:08:28:58] (I): Multisite : No
+[11/Jun/2021:08:28:58] (I): Server Info : Apache
+[11/Jun/2021:08:28:58] (I): PHP Version : 7.4.8
+[11/Jun/2021:08:28:58] (I): HTTPS : Yes
+[11/Jun/2021:08:28:58] (I): PHP Max Execution Time : 60
+[11/Jun/2021:08:28:58] (I): PHP Max Input Vars : 8000
+[11/Jun/2021:08:28:58] (I): Max Upload Size : 10485760
+[11/Jun/2021:08:28:58] (I): Plugins:
+[11/Jun/2021:08:28:58] (I): [PLUGIN] Site Kit by Google : v1.31.0 (Google)
+[11/Jun/2021:08:28:58] (I): [PLUGIN] Heroic Table of Contents : v1.1.2 (HeroThemes)
+[11/Jun/2021:08:28:58] (I): [PLUGIN] Hummingbird : v2.7.4 (WPMU DEV)
+[11/Jun/2021:08:28:58] (I): [PLUGIN] Imagify : v1.9.14 (WP Media)
+[11/Jun/2021:08:28:58] (I): [PLUGIN] MailPoet 3 (New) : v3.63.0 (MailPoet)
+[11/Jun/2021:08:28:58] (I): [PLUGIN] Ninja Forms : v3.5.4 (Saturday Drive)
+[11/Jun/2021:08:28:58] (I): [PLUGIN] Ninja Tables : v4.1.5 (WPManageNinja LLC)
+[11/Jun/2021:08:28:58] (I): [PLUGIN] Really Simple SSL : v4.0.14 (Really Simple Plugins)
+[11/Jun/2021:08:28:58] (I): [PLUGIN] Rank Math SEO : v1.0.65 (Rank Math)
+[11/Jun/2021:08:28:58] (I): [PLUGIN] Templates Patterns Collection : v1.1.13 (ThemeIsle)
+[11/Jun/2021:08:28:58] (I): [PLUGIN] UpdraftPlus - Backup/Restore : v1.16.56 (UpdraftPlus.Com, DavidAnderson)
+[11/Jun/2021:08:28:58] (I): [PLUGIN] Wordfence Security : v7.5.2 (Wordfence)

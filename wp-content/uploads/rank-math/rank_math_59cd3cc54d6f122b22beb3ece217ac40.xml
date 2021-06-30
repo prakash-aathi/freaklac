@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://prakash-aathi.github.io/freaklac/main-sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>https://prakash-aathi.github.io/freaklac/post-sitemap.xml</loc>
+		<lastmod>2021-06-30T11:28:49+05:30</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://prakash-aathi.github.io/freaklac/page-sitemap.xml</loc>
+		<lastmod>2021-06-27T18:24:11+05:30</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://prakash-aathi.github.io/freaklac/category-sitemap.xml</loc>
+		<lastmod>2021-06-30T11:28:49+05:30</lastmod>
+	</sitemap>
+</sitemapindex>

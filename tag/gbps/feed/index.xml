@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>gbps &#8211; Freaklac</title>
+	<atom:link href="https://prakash-aathi.github.io/freaklac/tag/gbps/feed/" rel="self" type="application/rss+xml" />
+	<link>https://prakash-aathi.github.io/freaklac/</link>
+	<description>Freak on the world</description>
+	<lastBuildDate>Fri, 11 Jun 2021 17:38:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://prakash-aathi.github.io/freaklac/wp-content/uploads/2021/04/freaklac-black-150x150.jpg</url>
+	<title>gbps &#8211; Freaklac</title>
+	<link>https://prakash-aathi.github.io/freaklac/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>6G Technology</title>
+		<link>https://prakash-aathi.github.io/freaklac/6g-technology-usage-of-various-generation-networks/</link>
+					<comments>https://prakash-aathi.github.io/freaklac/6g-technology-usage-of-various-generation-networks/#respond</comments>
+		
+		<dc:creator><![CDATA[shan]]></dc:creator>
+		<pubDate>Fri, 11 Jun 2021 14:43:26 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[6G]]></category>
+		<category><![CDATA[gbps]]></category>
+		<guid isPermaLink="false">https://prakash-aathi.github.io/freaklac/?p=798</guid>
+
+					<description><![CDATA[Hey guys, the general meaning for 6G,5G,4G,2G is called the generation of the wireless network. When upgrading to a new version of the network the speed of the net will be high. Thinking about the first generation that time only mobile was invented and the mobile considers of 1kg weight. It cannot be used personally,&#8230;&#160;<a href="https://prakash-aathi.github.io/freaklac/6g-technology-usage-of-various-generation-networks/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">6G Technology</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>Hey guys, the general meaning for 6G,5G,4G,2G is called the generation of the wireless network. When upgrading to a new version of the network the speed of the net will be high. Thinking about the first generation that time only mobile was invented and the mobile considers of 1kg weight. It cannot be used personally, but now you can use mobiles personally. When the generation upgrade the size of mobile reduces. In the same way, when the upgrade of generation of the wireless network the speed of the internet increases. </p>
+
+
+
+<p>During 1G network usage, the message sending and receiving speed was 2.4kbps. (&#8216;kbps&#8217; is nothing kilobytes per second ) measuring unit of internet speed. During 2G  the speed was 40kbps, those time only you can use text message and picture message are introduced.</p>
+
+
+
+<p>when coming to 3G, it was quite smarter and faster to use , compare to 2G and 1G.</p>
+
+
+
+<p>But in 4G the speed of net was 500 times faster than 3G. when introduced 4G, we more used of youtube and more net consuming app are used at high speed </p>
+
+
+
+<p>Next is about 5G, low latency network are fined, it is more used in the medical field and car companies. All the countries are moving on 5G nowadays, but in India, it will come soon.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="600" height="335" src="https://prakash-aathi.github.io/freaklac/wp-content/uploads/2021/06/6g-pre-1.jpg" alt="5g to 6g" class="wp-image-808" srcset="https://prakash-aathi.github.io/freaklac/wp-content/uploads/2021/06/6g-pre-1.jpg 600w, https://prakash-aathi.github.io/freaklac/wp-content/uploads/2021/06/6g-pre-1-300x168.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
+
+
+
+<p>Let see about our main topic 6G. The speed of 6G, was 11 Gbps, using this speed you can download 11 hours of video in few seconds. It is more used in mixed reality live cars, drone, robots. It is very important latern for the medical field. The speed of time was related to real-time speed. The 6G contains SUB MM waves in the ratio of 10:1 of 5G.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://prakash-aathi.github.io/freaklac/6g-technology-usage-of-various-generation-networks/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
